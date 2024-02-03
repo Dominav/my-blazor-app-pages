@@ -18,7 +18,6 @@ jobs:
 
       - name: Clone gh-pages branch
         run: |
-          git remote add origin git@github.com:Dominav/my-blazor-app.git
           git clone --branch gh-pages git@github.com:Dominav/my-blazor-app.git gh-pages
 
       - name: Checkout target repository
