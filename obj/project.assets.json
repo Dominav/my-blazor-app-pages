@@ -1767,11 +1767,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fikus\\Code\\MyBlazorApp\\main\\main.csproj",
-      "projectName": "main",
-      "projectPath": "C:\\Users\\fikus\\Code\\MyBlazorApp\\main\\main.csproj",
+      "projectUniqueName": "C:\\Users\\fikus\\Code\\MyBlazorApp\\MyBlazorApp.csproj",
+      "projectName": "MyBlazorApp",
+      "projectPath": "C:\\Users\\fikus\\Code\\MyBlazorApp\\MyBlazorApp.csproj",
       "packagesPath": "C:\\Users\\fikus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fikus\\Code\\MyBlazorApp\\main\\obj\\",
+      "outputPath": "C:\\Users\\fikus\\Code\\MyBlazorApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fikus\\AppData\\Roaming\\NuGet\\NuGet.Config"
