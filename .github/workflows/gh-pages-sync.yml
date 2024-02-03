@@ -18,7 +18,7 @@ jobs:
 
       - name: Clone gh-pages branch
         run: |
-          REM git clone --branch gh-pages git@github.com:Dominav/my-blazor-app.git gh-pages
+          
           PAT="mypat123"
           REPO_URL=https://github.com/Dominav/my-blazor-app.git"
           AUTH=$(echo -n ":$PAT" | openssl base64 | tr -d '\n')
