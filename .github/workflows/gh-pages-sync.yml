@@ -18,12 +18,8 @@ jobs:
 
       - name: Clone gh-pages branch
         run: |
-          
-          PAT="mypat123"
-          REPO_URL=https://github.com/Dominav/my-blazor-app.git"
-          AUTH=$(echo -n ":$PAT" | openssl base64 | tr -d '\n')
-          git -c http.$REPO_URL.extraheader="Authorization: Basic $AUTH" clone $REPO_URL --no-checkout --branch gh-pages
-
+          git remote add origin git@github.com:Dominav/my-blazor-app.git
+          git clone --branch gh-pages git@github.com:Dominav/my-blazor-app.git gh-pages
 
       - name: Checkout target repository
         uses: actions/checkout@v2
