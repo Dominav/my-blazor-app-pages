@@ -2,12 +2,11 @@
   "cacheBootResources": true,
   "config": [ ],
   "debugBuild": false,
-  "entryAssembly": "main",
+  "entryAssembly": "my-blazor-app",
   "icuDataMode": 0,
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "main.dll": "sha256-x0yGWora6bidkEiDiMKwhcqKNdYS1ttjDofb1Rkigpc=",
       "Microsoft.AspNetCore.Components.dll": "sha256-o3PXLrNpyIuix1ux81t5MPHOhtZFc87fFkzvvWTSxlI=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-y2jWjcCCSQtg5p+7WxSZLu\/LvU4yk723mB4ZuSEVgm0=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-XdEMTrDJC9\/OIhDBiNVOF63fPe6mcuxdRjPmPhsysjU=",
@@ -22,6 +21,7 @@
       "Microsoft.Extensions.Primitives.dll": "sha256-YColTWA58whC+8aBjv1O7HgsyYrbHTba601EkNDWAlo=",
       "Microsoft.JSInterop.dll": "sha256-7CHE6WDjgusBzSbcf7PpCoa+8LIaKTx0ZZuru3MLeAE=",
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-wpwEXASX+xrCyOB0F7WFlwm\/Oux4QdeUH5gvPaeTwZI=",
+      "my-blazor-app.dll": "sha256-fmohmSLSVc6fVuvOFMrib0VTtjD23FUtz4iDURffjbY=",
       "System.Collections.Concurrent.dll": "sha256-k0Din3QhHb7\/rV\/1VkzhM9vr+DmKMzcNa7DHhWUM\/VU=",
       "System.Collections.dll": "sha256-mg\/Scu9oMOABX1U0heOZm26pCjMfbOZqSYIbZwVh0JI=",
       "System.ComponentModel.dll": "sha256-j\/lFZ9BOJGcFydnbpNgVCfteXtH6mk0EZ89iNMWNwh4=",
