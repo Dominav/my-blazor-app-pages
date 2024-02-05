@@ -1,19 +1,19 @@
 /* /Shared/MainLayout.razor.rz.scp.css */
-.page[b-cr2tfj0vwa] {
+.page[b-eyj5h477o4] {
     position: relative;
     display: flex;
     flex-direction: column;
 }
 
-main[b-cr2tfj0vwa] {
+main[b-eyj5h477o4] {
     flex: 1;
 }
 
-.sidebar[b-cr2tfj0vwa] {
+.sidebar[b-eyj5h477o4] {
     background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
 }
 
-.top-row[b-cr2tfj0vwa] {
+.top-row[b-eyj5h477o4] {
     background-color: #f7f7f7;
     border-bottom: 1px solid #d6d5d5;
     justify-content: flex-end;
@@ -22,99 +22,99 @@ main[b-cr2tfj0vwa] {
     align-items: center;
 }
 
-    .top-row[b-cr2tfj0vwa]  a, .top-row[b-cr2tfj0vwa]  .btn-link {
+    .top-row[b-eyj5h477o4]  a, .top-row[b-eyj5h477o4]  .btn-link {
         white-space: nowrap;
         margin-left: 1.5rem;
         text-decoration: none;
     }
 
-    .top-row[b-cr2tfj0vwa]  a:hover, .top-row[b-cr2tfj0vwa]  .btn-link:hover {
+    .top-row[b-eyj5h477o4]  a:hover, .top-row[b-eyj5h477o4]  .btn-link:hover {
         text-decoration: underline;
     }
 
-    .top-row[b-cr2tfj0vwa]  a:first-child {
+    .top-row[b-eyj5h477o4]  a:first-child {
         overflow: hidden;
         text-overflow: ellipsis;
     }
 
 @media (max-width: 640.98px) {
-    .top-row:not(.auth)[b-cr2tfj0vwa] {
+    .top-row:not(.auth)[b-eyj5h477o4] {
         display: none;
     }
 
-    .top-row.auth[b-cr2tfj0vwa] {
+    .top-row.auth[b-eyj5h477o4] {
         justify-content: space-between;
     }
 
-    .top-row[b-cr2tfj0vwa]  a, .top-row[b-cr2tfj0vwa]  .btn-link {
+    .top-row[b-eyj5h477o4]  a, .top-row[b-eyj5h477o4]  .btn-link {
         margin-left: 0;
     }
 }
 
 @media (min-width: 641px) {
-    .page[b-cr2tfj0vwa] {
+    .page[b-eyj5h477o4] {
         flex-direction: row;
     }
 
-    .sidebar[b-cr2tfj0vwa] {
+    .sidebar[b-eyj5h477o4] {
         width: 250px;
         height: 100vh;
         position: sticky;
         top: 0;
     }
 
-    .top-row[b-cr2tfj0vwa] {
+    .top-row[b-eyj5h477o4] {
         position: sticky;
         top: 0;
         z-index: 1;
     }
 
-    .top-row.auth[b-cr2tfj0vwa]  a:first-child {
+    .top-row.auth[b-eyj5h477o4]  a:first-child {
         flex: 1;
         text-align: right;
         width: 0;
     }
 
-    .top-row[b-cr2tfj0vwa], article[b-cr2tfj0vwa] {
+    .top-row[b-eyj5h477o4], article[b-eyj5h477o4] {
         padding-left: 2rem !important;
         padding-right: 1.5rem !important;
     }
 }
 /* /Shared/NavMenu.razor.rz.scp.css */
-.navbar-toggler[b-fllpyoy3s1] {
+.navbar-toggler[b-r24updt3ja] {
     background-color: rgba(255, 255, 255, 0.1);
 }
 
-.top-row[b-fllpyoy3s1] {
+.top-row[b-r24updt3ja] {
     height: 3.5rem;
     background-color: rgba(0,0,0,0.4);
 }
 
-.navbar-brand[b-fllpyoy3s1] {
+.navbar-brand[b-r24updt3ja] {
     font-size: 1.1rem;
 }
 
-.oi[b-fllpyoy3s1] {
+.oi[b-r24updt3ja] {
     width: 2rem;
     font-size: 1.1rem;
     vertical-align: text-top;
     top: -2px;
 }
 
-.nav-item[b-fllpyoy3s1] {
+.nav-item[b-r24updt3ja] {
     font-size: 0.9rem;
     padding-bottom: 0.5rem;
 }
 
-    .nav-item:first-of-type[b-fllpyoy3s1] {
+    .nav-item:first-of-type[b-r24updt3ja] {
         padding-top: 1rem;
     }
 
-    .nav-item:last-of-type[b-fllpyoy3s1] {
+    .nav-item:last-of-type[b-r24updt3ja] {
         padding-bottom: 1rem;
     }
 
-    .nav-item[b-fllpyoy3s1]  a {
+    .nav-item[b-r24updt3ja]  a {
         color: #d7d7d7;
         border-radius: 4px;
         height: 3rem;
@@ -123,22 +123,22 @@ main[b-cr2tfj0vwa] {
         line-height: 3rem;
     }
 
-.nav-item[b-fllpyoy3s1]  a.active {
+.nav-item[b-r24updt3ja]  a.active {
     background-color: rgba(255,255,255,0.25);
     color: white;
 }
 
-.nav-item[b-fllpyoy3s1]  a:hover {
+.nav-item[b-r24updt3ja]  a:hover {
     background-color: rgba(255,255,255,0.1);
     color: white;
 }
 
 @media (min-width: 641px) {
-    .navbar-toggler[b-fllpyoy3s1] {
+    .navbar-toggler[b-r24updt3ja] {
         display: none;
     }
 
-    .collapse[b-fllpyoy3s1] {
+    .collapse[b-r24updt3ja] {
         /* Never collapse the sidebar for wide screens */
         display: block;
     }

@@ -2,7 +2,7 @@
   "cacheBootResources": true,
   "config": [ ],
   "debugBuild": false,
-  "entryAssembly": "my-blazor-app",
+  "entryAssembly": "MyBlazorApp",
   "icuDataMode": 0,
   "linkerEnabled": true,
   "resources": {
@@ -21,7 +21,7 @@
       "Microsoft.Extensions.Primitives.dll": "sha256-YColTWA58whC+8aBjv1O7HgsyYrbHTba601EkNDWAlo=",
       "Microsoft.JSInterop.dll": "sha256-7CHE6WDjgusBzSbcf7PpCoa+8LIaKTx0ZZuru3MLeAE=",
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-wpwEXASX+xrCyOB0F7WFlwm\/Oux4QdeUH5gvPaeTwZI=",
-      "my-blazor-app.dll": "sha256-fmohmSLSVc6fVuvOFMrib0VTtjD23FUtz4iDURffjbY=",
+      "MyBlazorApp.dll": "sha256-ykN0UxJw9RDWMoRAy0YH0+QWVdpfsH2JlAkW\/ZKxEDU=",
       "System.Collections.Concurrent.dll": "sha256-k0Din3QhHb7\/rV\/1VkzhM9vr+DmKMzcNa7DHhWUM\/VU=",
       "System.Collections.dll": "sha256-mg\/Scu9oMOABX1U0heOZm26pCjMfbOZqSYIbZwVh0JI=",
       "System.ComponentModel.dll": "sha256-j\/lFZ9BOJGcFydnbpNgVCfteXtH6mk0EZ89iNMWNwh4=",
