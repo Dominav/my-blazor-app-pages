@@ -16,6 +16,17 @@ a, .btn-link {
     color: #fff;
     background-color: #1b6ec2;
     border-color: #1861ac;
+    margin-top: 2%;
+}
+
+.btn-help {
+    color: #000000;
+    background-color: #7dbeff;
+    border-color: #1861ac;
+    margin-top: 2%;
+    position: absolute;
+    right:2%;
+    padding: 0.2em;
 }
 
 .content {
@@ -62,3 +73,18 @@ a, .btn-link {
     .blazor-error-boundary::after {
         content: "An error has occurred."
     }
+
+.base {
+    padding: 2%;
+    width: 22.5em;
+}
+
+p {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.riddle{
+    font-weight: bold;
+    font-size: larger;
+}
